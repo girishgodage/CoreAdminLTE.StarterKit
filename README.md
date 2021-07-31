@@ -32,3 +32,30 @@ With this Repository, the only GOAL is to dramatically reduce these long hours o
 ## Getting Started
 To use this template, there are a few options:
 
+- [Install the Visual Studio Template](https://marketplace.visualstudio.com/items?itemName=GirishGodage.CoreAdminLTEStarter) and use it within Visual Studio
+- Download this Repository
+I'll cover both options here.
+
+### Using the GitHub Repository
+To get started based on this repository, you need to get a copy locally. You have three options: fork, clone, or download. Most of the time, you probably just want to download.
+
+You should download the repository, unblock the zip file, and extract it to a new folder if you just want to play with the project or you wish to use it as the starting point for an application.
+
+You should fork this repository only if you plan on submitting a pull request. Or if you'd like to keep a copy of a snapshot of the repository in your own GitHub account.
+
+You should clone this repository if you're one of the contributors and you have commit access to it. Otherwise you probably want one of the other options.
+
+
+## Questions? Bugs? Suggestions for Improvement?
+Having any issues or troubles getting started? [Get in touch with me](https://girishgodage.in/#contact)
+
+## Share it!
+Here is a full fledged implementation of AdminLTE Starter Kit for ASP.NET Core. There are quite a lot of improvements and fixes along the way from the day I started out. Thanks to the community for the support and suggestions.
+Please share this Repository within your developer community, if you think that this would a difference! Thanks.
+
+## About the Author
+### Girish Godage
+- Blogs at [girishgodage.in](https://girishgodage.in/blog/)
+- Twitter - [Girish Godage](https://twitter.com/GGodage)
+- Linkedin - [Girish Godage](https://www.linkedin.com/in/girish-godage-0a80422)
+
